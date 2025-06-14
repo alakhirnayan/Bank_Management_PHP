@@ -1,6 +1,4 @@
-Certainly. Below is a professional and comprehensive `README.md` file tailored to your project, based on the codebase, database, and styles you've provided.
 
----
 
 ````markdown
 # Net Banking System
