@@ -131,8 +131,3 @@ This project was originally developed as a commissioned solution for a client or
 All code was authored and structured independently with a focus on modularity, security, and responsive user experience.
 
 ```
-
----
-
-Let me know if you'd like to tailor the README for deployment on platforms like Heroku, or convert it into a documentation site with GitHub Pages or MkDocs.
-```
