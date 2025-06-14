@@ -120,7 +120,7 @@ This project works well as a prototype but contains several critical security is
 
 ## License
 
-This project is open-source and available under the MIT License. Please check `LICENSE` file for details.
+This project is open-source. Please check `LICENSE` file for details.
 
 ---
 
